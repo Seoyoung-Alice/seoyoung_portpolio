@@ -1,0 +1,26 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "build hugo",
+			"type": "shell",
+			"command": "hugo",
+			"args": [
+				"--cleanDestinationDir"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "run hugo server",
+			"command": "hugo",
+			"args": [
+				"server",
+				"-D"
+			],
+			"problemMatcher": []
+		}
+	]
+}
