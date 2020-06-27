@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: Master Degree in 신기술융합학과(Electronic Engineering)
+    institution: Korea Polytechnic University
+    year: 2019
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
