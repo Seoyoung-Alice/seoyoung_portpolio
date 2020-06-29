@@ -1,5 +1,8 @@
 +++
 # A Projects section created with the Portfolio widget.
+
+# 프로젝트 리스트 정리
+
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
