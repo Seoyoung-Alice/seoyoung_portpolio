@@ -1,18 +1,19 @@
 ---
-title: UAV를 이용한 3차원 경로 선정
+title: Smart Study Room IoT 시스템
 summary: An example of using the in-built project page.
 tags:
-- 3차원 경로선정 알고리즘
-- 무인항공기
-- MATLAB
-- 석사학위논문
+- IoT
+- Arm Core
+- W7500
+- Wiznet
+- C, Cpp
 #date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: 3차원 경로 선정 결과
+  caption: 시스템 모식도
   focal_point: Smart
 
 links:
@@ -34,27 +35,27 @@ slides: example
 ---
 
 ##	요약
-- 무인항공기용 3차원 경로선정 알고리즘 및 GUI 기반의 경로 선정 시뮬레이션 프로그램 개발
+- 공부하기 좋은 환경을 만들어주는 Smart 공부방 IoT 시스템 개발
 
 ##	개요
-- 기간 : 17. 06 ~ 19. 01(약 20개월)
-- 역할 : 3D 경로 선정 알고리즘 개발, GUI 기반 경로 시뮬레이션 프로그램 개발
+- 기간 : 15. 06 ~ 15. 10(약 5개월)
+- 역할 : 팀장(기간 조율 및 팀원 독려) / relay 제작 및 제어, 프로그램 총합
 
 ##	프로젝트 내용
-- 실제 무인항공기 운항을 고려한 3차원 곡선 경로 선정 알고리즘 개발
-- 선회와 상승 비행을 복합적으로 고려하여 보다 효율적인 운항경로 선정
-- 보로노이 다이어그램을 이용한 SAM-Site 및 위험요소 회피 경로 개발
-- 베지에 곡선을 이용한 실제 무인항공기 운항에 가까운 곡선 경로 개발
-- MATLAB을 이용한 알고리즘 검증
-- GUI 기반의 시뮬레이션 프로그램 개발
+- Arm Core 기반의 W7500 보드와 센서들을 이용하여 유선 네트워크로 연동되는 IoT 시스템 구현
+- 다양한 센서를 target board인 W7500(Arm Core 기반)으로 제어하여 자동으로 온도, 습도 등 집중하기 좋은 환경으로 맞춰 줄 수 있도록 함.
+- 온도, 습도 제어를 위한 일정 온도, 습도 이상 이하 될 경우 선풍기, 일조량 등 제어
+- 모션센서를 이용한 이용자 유무 판별
+- 유선 네트워크를 통한 컴퓨터로 원격 제어 기능
 
 ##	개발 환경
-- MATLAB(경로선정 알고리즘 검정 및 시뮬레이션 프로그램 개발 프로그램)
-- voronoi 다이어그램
-- TSP 알고리즘
-- 베지에 곡선
+- Arm Core 기반의 W7500 보드
+- mBed
+- html
+- CPP
 
 ##	성과
-- 석사 졸업 논문
+- Smart 공부방 IoT 시스템 개발
+- 위즈네트 IoT 시스템 구현 대회 참가
 
-{{< figure src="UAV_path_result_3D_2.png" title="3차원 경로 선정 결과(측면)" lightbox="true" >}}
+{{< figure src="wiznet_1.jpg" title="사용 센서" lightbox="true" >}}
