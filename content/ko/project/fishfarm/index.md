@@ -2,10 +2,11 @@
 title: 양식장 모니터링 앱 개발
 summary: An example of using the in-built project page.
 tags:
-- 3차원 경로선정 알고리즘
-- 무인항공기
-- MATLAB
-- 석사학위논문
+- 안드로이드 어플리케이션
+- 모니터링
+- Java
+- Cpp
+- Bluetooth
 #date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
