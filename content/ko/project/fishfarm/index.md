@@ -1,5 +1,5 @@
 ---
-title: UAV를 이용한 3차원 경로 선정
+title: 양식장 모니터링 앱 개발
 summary: An example of using the in-built project page.
 tags:
 - 3차원 경로선정 알고리즘
@@ -12,7 +12,7 @@ tags:
 external_link: ""
 
 image:
-  caption: 3차원 경로 선정 결과
+  caption: 양식장 어플 메인화면
   focal_point: Smart
 
 links:
@@ -34,27 +34,29 @@ slides: example
 ---
 
 ##	요약
-- 무인항공기용 3차원 경로선정 알고리즘 및 GUI 기반의 경로 선정 시뮬레이션 프로그램 개발
+- Bluetooth를 이용한 양식장 수조의 수질센서 정보를 실시간 확인 및 관리 할 수 있는 Android Application
 
 ##	개요
-- 기간 : 17. 06 ~ 19. 01(약 20개월)
-- 역할 : 3D 경로 선정 알고리즘 개발, GUI 기반 경로 시뮬레이션 프로그램 개발
+- 기간 : 15. 08 ~ 15. 11 (4 개월)
+- 역할 : Android Application 디자인 & 프로그램 개발
 
 ##	프로젝트 내용
-- 실제 무인항공기 운항을 고려한 3차원 곡선 경로 선정 알고리즘 개발
-- 선회와 상승 비행을 복합적으로 고려하여 보다 효율적인 운항경로 선정
-- 보로노이 다이어그램을 이용한 SAM-Site 및 위험요소 회피 경로 개발
-- 베지에 곡선을 이용한 실제 무인항공기 운항에 가까운 곡선 경로 개발
-- MATLAB을 이용한 알고리즘 검증
-- GUI 기반의 시뮬레이션 프로그램 개발
+- Bluetooth를 이용한 수질센서와 Application간의 통신
+- 실시간으로 센서정보를 받아 Application에 출력 
+- 센서에 등록된 제어 command를 이용한 센서 제어
+- 센서 offset, 측정 주기 등 센서 기본정보 설정
+- 실시간 센서 정보를 시간, 수온, CHL, BGA 등 센서 정보를 .csv 파일로 저장
 
 ##	개발 환경
-- MATLAB(경로선정 알고리즘 검정 및 시뮬레이션 프로그램 개발 프로그램)
-- voronoi 다이어그램
-- TSP 알고리즘
-- 베지에 곡선
+- Android OS(Jelly Bean)
+- Bluetooth 4.0 (BLE)
+- Android Studio
+- java
+- CPP
 
 ##	성과
-- 석사 졸업 논문
+- 해외 제품의 국산화
+- 모니터링을 위한 프로토 타입 시스템 개발
 
-{{< figure src="UAV_path_result_3D_2.png" title="3차원 경로 선정 결과(측면)" lightbox="true" >}}
+{{< figure src="fishfarm_file_save2.jpg" title="양식장 어플 파일 저장화면" lightbox="true" >}}
+{{< figure src="fishfarm_data_save_result.jpg" title="양식장 어플 파일 저장 결과" lightbox="true" >}}
