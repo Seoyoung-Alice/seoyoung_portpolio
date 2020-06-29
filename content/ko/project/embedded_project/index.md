@@ -1,12 +1,12 @@
 ---
 title: 임베디드 리눅스를 이용한 색상 맞추기 게임
-summary: An example of using the in-built project page.
+summary: device driver 및 Makefile 설계를 통한 리눅스를 이용한 임베디드 시스템 개발
 tags:
 - 임베디드 리눅스
 - Makefile
 - device driver
 - Arm Cortex-A9
-#date: "2016-04-27T00:00:00Z"
+date: "2016-11-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,10 +16,9 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  link: https://github.com/Seoyoung-Alice
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -1,6 +1,6 @@
 ---
 title: GPR 신호 획득률 개선을 위한 RTS 및 다중 ADC 설계
-summary: An example of using the in-built project page.
+summary: Altera FPGA를 이용한 임베디드 SoC
 tags:
 - GPR
 - RTS
@@ -9,7 +9,7 @@ tags:
 - Altera Cyclone
 - FPGA
 - 임베디드 SoC
-#date: "2016-04-27T00:00:00Z"
+date: "2017-04-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -19,10 +19,9 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  link: https://github.com/Seoyoung-Alice
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -1,11 +1,11 @@
 ---
 title: 격투용 휴머노이드 개발
-summary: An example of using the in-built project page.
+summary: DOWA 전국 휴머노이드 대회 수상
 tags:
 - 휴머노이드
 - 3D 모델링
 - 수상
-#date: "2016-04-27T00:00:00Z"
+date: "2013-10-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

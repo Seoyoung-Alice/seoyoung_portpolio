@@ -1,13 +1,13 @@
 ---
 title: 양식장 모니터링 앱 개발
-summary: An example of using the in-built project page.
+summary: 스마트 양식장 모니터링을 위한 블루투스 통신을 이용한 안드로이드 어플
 tags:
 - 안드로이드 어플리케이션
 - 모니터링
 - Java
 - Cpp
 - Bluetooth
-#date: "2016-04-27T00:00:00Z"
+date: "2015-11-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,10 +17,9 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  link: https://github.com/Seoyoung-Alice
 url_code: ""
 url_pdf: ""
 url_slides: ""

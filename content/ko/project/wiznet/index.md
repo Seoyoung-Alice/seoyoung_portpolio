@@ -1,13 +1,13 @@
 ---
 title: Smart Study Room IoT 시스템
-summary: An example of using the in-built project page.
+summary: IoT를 이용한 스마트 스터디 룸 시스템
 tags:
 - IoT
 - Arm Core
 - W7500
 - Wiznet
 - C, Cpp
-#date: "2016-04-27T00:00:00Z"
+date: "2015-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,11 +16,6 @@ image:
   caption: 시스템 모식도
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
