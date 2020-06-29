@@ -1,18 +1,18 @@
 ---
-title: UAV를 이용한 3차원 경로 선정
+title: 임베디드 리눅스를 이용한 색상 맞추기 게임
 summary: An example of using the in-built project page.
 tags:
-- 3차원 경로선정 알고리즘
-- 무인항공기
-- MATLAB
-- 석사학위논문
+- 임베디드 리눅스
+- Makefile
+- device driver
+- Arm Cortex-A9
 #date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: 3차원 경로 선정 결과
+  caption: 게임 화면
   focal_point: Smart
 
 links:
@@ -34,27 +34,28 @@ slides: example
 ---
 
 ##	요약
-- 무인항공기용 3차원 경로선정 알고리즘 및 GUI 기반의 경로 선정 시뮬레이션 프로그램 개발
+- 제한 시간 안에 랜덤으로 나오는 색상을 순서대로 누르는 게임
 
 ##	개요
-- 기간 : 17. 06 ~ 19. 01(약 20개월)
-- 역할 : 3D 경로 선정 알고리즘 개발, GUI 기반 경로 시뮬레이션 프로그램 개발
+- 기간 : 16. 10 ~ 16. 11 (2개월)
+- 역할 : 팀장 / frame buffer 이용하여 이미지 제어 및 Touch LCD device driver 설계
 
 ##	프로젝트 내용
-- 실제 무인항공기 운항을 고려한 3차원 곡선 경로 선정 알고리즘 개발
-- 선회와 상승 비행을 복합적으로 고려하여 보다 효율적인 운항경로 선정
-- 보로노이 다이어그램을 이용한 SAM-Site 및 위험요소 회피 경로 개발
-- 베지에 곡선을 이용한 실제 무인항공기 운항에 가까운 곡선 경로 개발
-- MATLAB을 이용한 알고리즘 검증
-- GUI 기반의 시뮬레이션 프로그램 개발
+- Touch LCD의 랜덤 위치에 랜덤 색상이 나오도록 함
+- 제한 시간안에 못하거나 틀리면 무서운 사진과 함께 부저가 울림
+- Linux 디바이스 driver를 이용하여 buzzer, button, touch LCD 등 제어
+- touch LCD, buzzer 등 장치의 device driver 설계 & Makefile 개발
 
 ##	개발 환경
-- MATLAB(경로선정 알고리즘 검정 및 시뮬레이션 프로그램 개발 프로그램)
-- voronoi 다이어그램
-- TSP 알고리즘
-- 베지에 곡선
+- Arm Cortex-A9 기반 장비
+- Linux Ubuntu
+- C, CPP
 
 ##	성과
-- 석사 졸업 논문
+- 임베디드 software를 통해 Linux의 이해 및 device driver, Makefile 개발의 기초 마련
+- 기존의 Sample device driver, Makefile을 분석하고 응용하여 개발
+- 각 장치 및 target device의 성능 구조를 이해하여 기능 구현
 
-{{< figure src="UAV_path_result_3D_2.png" title="3차원 경로 선정 결과(측면)" lightbox="true" >}}
+{{< figure src="embedded_3.jpg" title="색상 맞추기 게임 화면" lightbox="true" >}}
+{{< figure src="embedded_4.jpg" title="게임 인터페이스" lightbox="true" >}}
+{{< figure src="embedded_5.jpg" title="게임 오버" lightbox="true" >}}
