@@ -23,13 +23,13 @@ subtitle = ""
 [[feature]]
   icon = "android"
   icon_pack = "fab"
-  name = "Java"
+  name = "Android java"
   description = "INTERMEDIATE"
   
 [[feature]]
-  icon = "ubuntu"
+  icon = "python"
   icon_pack = "fab"
-  name = "ubuntu"
+  name = "python"
   description = "INTERMEDIATE"
   
 [[feature]]
