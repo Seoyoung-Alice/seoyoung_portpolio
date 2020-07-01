@@ -20,7 +20,7 @@ organizations:
   url: "http://www.ubiworks.co.kr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 가나다라마바사
 
 interests:
 - Embedded Linux System
