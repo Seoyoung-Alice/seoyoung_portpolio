@@ -9,6 +9,7 @@ tags:
 - Altera Cyclone
 - FPGA
 - 임베디드 SoC
+- 졸업
 date: "2017-04-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

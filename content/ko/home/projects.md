@@ -29,12 +29,20 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
-  
+    name = "졸업"
+    tag = "졸업"
+
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "C++"
+    tag = "Cpp"
+
+  [[content.filter_button]]
+    name = "Arm Core"
+    tag = "Arm Core"
+
+  [[content.filter_button]]
+    name = "수상"
+    tag = "수상"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -2,10 +2,13 @@
 title: 임베디드 리눅스를 이용한 색상 맞추기 게임
 summary: device driver 및 Makefile 설계를 통한 리눅스를 이용한 임베디드 시스템 개발
 tags:
-- 임베디드 리눅스
+- 임베디드
+- Linux
 - Makefile
 - device driver
-- Arm Cortex-A9
+- Arm Core
+- C
+- Cpp
 date: "2016-11-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

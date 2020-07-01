@@ -1,11 +1,12 @@
 ---
-title: UAV를 이용한 3차원 경로 선정
+title: UAV를 위한 3차원 경로 선정
 summary: MATLAB을 이용한 무인항공기 3차원 경로선정 시뮬레이션
 tags:
 - 3차원 경로선정 알고리즘
 - 무인항공기
 - MATLAB
 - 석사학위논문
+- 졸업
 date: "2019-02-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

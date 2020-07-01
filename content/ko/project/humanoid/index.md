@@ -43,6 +43,6 @@ slides: example
 - Solid Works 2010
 
 ##	성과
-- 제 4회 DOWA RGC 전국 로봇 대회 준우승
+- 제 4회 DOWA RGC 전국 로봇 대회 준우승 / 2013. 10
 
 {{< figure src="humanoid_2.JPG" title="대회 참가 사진" lightbox="true" >}}
