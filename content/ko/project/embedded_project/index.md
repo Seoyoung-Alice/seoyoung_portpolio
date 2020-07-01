@@ -21,8 +21,9 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  link: https://github.com/Seoyoung-Alice
-url_code: ""
+  link: "https://github.com/Seoyoung-Alice"
+
+url_code: "https://github.com/Seoyoung-Alice"
 url_pdf: ""
 url_slides: ""
 url_video: ""
