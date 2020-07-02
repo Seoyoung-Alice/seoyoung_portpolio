@@ -63,6 +63,9 @@ user_groups:
 - Visitors
 ---
 
-자기 소개 글
+## 빠른 적응, 응용 능력을 바탕으로 프로젝트를 수행하는 괴물 Software 엔지니어!
 
-솰라솰라
+- 프로그래밍에 관심이 많아 C, C++, MFC, java, python, MATLAB 등 컴파일 언어부터 인터프리티드 언어까지 다양한 언어를 공부하였다.
+- 빠르고 정확한 코드 분석능력을 기반으로 응용 프로그래밍 개발에 능하며 다양한 프로젝트를 수행하였다.
+- IoT 시스템에 관심이 있어 Muchine Learning, AWS, IBM cloud, Node Red, Json, docker, QT 등을 공부하였다.
+- 이를 이용한 간단한 음성인식 IoT 시스템을 구현한 경험이 있다.
