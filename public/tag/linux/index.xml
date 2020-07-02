@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux | Seoyoung-Alice</title>
+    <link>/tag/linux/</link>
+      <atom:link href="/tag/linux/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linux</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><lastBuildDate>Thu, 24 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Linux</title>
+      <link>/tag/linux/</link>
+    </image>
+    
+    <item>
+      <title>임베디드 리눅스를 이용한 색상 맞추기 게임</title>
+      <link>/project/embedded_project/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/project/embedded_project/</guid>
+      <description>&lt;h2 id=&#34;요약&#34;&gt;요약&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;제한 시간 안에 랜덤으로 나오는 색상을 순서대로 누르는 게임&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개요&#34;&gt;개요&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;기간 : 16. 10 ~ 16. 11 (2개월)&lt;/li&gt;
+&lt;li&gt;역할 : 팀장 / frame buffer 이용하여 이미지 제어 및 Touch LCD device driver 설계&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;프로젝트-내용&#34;&gt;프로젝트 내용&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Touch LCD의 랜덤 위치에 랜덤 색상이 나오도록 함&lt;/li&gt;
+&lt;li&gt;제한 시간안에 못하거나 틀리면 무서운 사진과 함께 부저가 울림&lt;/li&gt;
+&lt;li&gt;Linux 디바이스 driver를 이용하여 buzzer, button, touch LCD 등 제어&lt;/li&gt;
+&lt;li&gt;touch LCD, buzzer 등 장치의 device driver 설계 &amp;amp; Makefile 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개발-환경&#34;&gt;개발 환경&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Arm Cortex-A9 기반 장비&lt;/li&gt;
+&lt;li&gt;Linux Ubuntu&lt;/li&gt;
+&lt;li&gt;C, CPP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;성과&#34;&gt;성과&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;임베디드 software를 통해 Linux의 이해 및 device driver, Makefile 개발의 기초 마련&lt;/li&gt;
+&lt;li&gt;기존의 Sample device driver, Makefile을 분석하고 응용하여 개발&lt;/li&gt;
+&lt;li&gt;각 장치 및 target device의 성능 구조를 이해하여 기능 구현&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-색상-맞추기-게임-화면&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/embedded_project/embedded_3_hu5b543553de100250893cd70c389a1648_16849_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;색상 맞추기 게임 화면&#34;&gt;
+
+
+  &lt;img data-src=&#34;/project/embedded_project/embedded_3_hu5b543553de100250893cd70c389a1648_16849_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;304&#34; height=&#34;273&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    색상 맞추기 게임 화면
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-게임-인터페이스&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/embedded_project/embedded_4_hudea2c42d3faf686dc45933edd1b5d3f7_20814_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;게임 인터페이스&#34;&gt;
+
+
+  &lt;img data-src=&#34;/project/embedded_project/embedded_4_hudea2c42d3faf686dc45933edd1b5d3f7_20814_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;304&#34; height=&#34;268&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    게임 인터페이스
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-게임-오버&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/embedded_project/embedded_5_hu6d0461940cf5c231bce7863e46bb1dbd_13981_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;게임 오버&#34;&gt;
+
+
+  &lt;img data-src=&#34;/project/embedded_project/embedded_5_hu6d0461940cf5c231bce7863e46bb1dbd_13981_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;304&#34; height=&#34;226&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    게임 오버
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

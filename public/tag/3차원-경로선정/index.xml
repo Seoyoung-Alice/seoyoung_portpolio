@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3차원 경로선정 | Seoyoung-Alice</title>
+    <link>/tag/3%EC%B0%A8%EC%9B%90-%EA%B2%BD%EB%A1%9C%EC%84%A0%EC%A0%95/</link>
+      <atom:link href="/tag/3%EC%B0%A8%EC%9B%90-%EA%B2%BD%EB%A1%9C%EC%84%A0%EC%A0%95/index.xml" rel="self" type="application/rss+xml" />
+    <description>3차원 경로선정</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3차원 경로선정</title>
+      <link>/tag/3%EC%B0%A8%EC%9B%90-%EA%B2%BD%EB%A1%9C%EC%84%A0%EC%A0%95/</link>
+    </image>
+    
+    <item>
+      <title>선회와 상승을 고려한 무인항공기의 3차원 복합 비행경로 알고리즘 연구</title>
+      <link>/publication/mastersdegree/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mastersdegree/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
