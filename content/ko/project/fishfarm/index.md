@@ -16,11 +16,12 @@ image:
   caption: 양식장 어플 메인화면
   focal_point: Smart
 
-links:
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Seoyoung-Alice
-url_code: ""
+#links:
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/Seoyoung-Alice
+
+url_code: "https://github.com/Seoyoung-Alice"
 url_pdf: ""
 url_slides: ""
 url_video: ""

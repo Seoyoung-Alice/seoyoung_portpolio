@@ -17,7 +17,7 @@ image:
   caption: 시스템 모식도
   focal_point: Smart
 
-url_code: ""
+url_code: "https://github.com/Seoyoung-Alice"
 url_pdf: ""
 url_slides: ""
 url_video: ""

@@ -19,11 +19,12 @@ image:
   caption: 200M RTS 데이터 중첩 블럭도
   focal_point: Smart
 
-links:
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Seoyoung-Alice
-url_code: ""
+#links:
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/Seoyoung-Alice
+
+url_code: "https://github.com/Seoyoung-Alice"
 url_pdf: ""
 url_slides: ""
 url_video: ""
