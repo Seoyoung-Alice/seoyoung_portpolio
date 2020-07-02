@@ -55,7 +55,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
+url_pdf: "files/masters_thesis_uav_3d_pathplanning.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
