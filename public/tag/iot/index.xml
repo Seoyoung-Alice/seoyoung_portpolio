@@ -46,43 +46,6 @@
 &lt;li&gt;Smart 공부방 IoT 시스템 개발&lt;/li&gt;
 &lt;li&gt;위즈네트 IoT 시스템 구현 대회 참가&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-사용-센서&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/wiznet/wiznet_1_hu2217f8cb0a510aea7f58bdc914c922fc_45944_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;사용 센서&#34;&gt;
-
-
-  &lt;img data-src=&#34;/project/wiznet/wiznet_1_hu2217f8cb0a510aea7f58bdc914c922fc_45944_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;644&#34; height=&#34;306&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    사용 센서
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
 
 
 
@@ -100,7 +63,7 @@
 
 &lt;video controls &gt;
   &lt;source src=&#34;wiznet_result.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/p&gt;
+&lt;/video&gt;
 </description>
     </item>
     
