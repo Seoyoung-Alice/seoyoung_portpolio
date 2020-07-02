@@ -14,7 +14,7 @@ date: "2015-10-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 시스템 모식도
+  caption: 사용 센서
   focal_point: Smart
 
 url_code: "https://github.com/Seoyoung-Alice"
@@ -54,5 +54,4 @@ slides: example
 - Smart 공부방 IoT 시스템 개발
 - 위즈네트 IoT 시스템 구현 대회 참가
 
-{{< figure src="wiznet_1.jpg" title="사용 센서" lightbox="true" >}}
 {{< video src="wiznet_result.mp4" controls="yes" >}}
