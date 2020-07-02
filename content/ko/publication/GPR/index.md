@@ -2,6 +2,8 @@
 title: "GPR 신호 획득률 개선을 위한 RTS 및 다중 ADC에 관한 연구"
 authors:
 - admin
+- 임영인
+- 송민지
 date: "2017-02-25T00:00:00Z"
 doi: ""
 
