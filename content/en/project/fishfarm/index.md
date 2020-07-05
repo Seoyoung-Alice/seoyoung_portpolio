@@ -1,9 +1,9 @@
 ---
-title: 양식장 모니터링 앱 개발
-summary: 스마트 양식장 모니터링을 위한 블루투스 통신을 이용한 안드로이드 어플
+title: Development of FishFarm monitoring Application
+summary: Android App with Bluetooth Communication for Smart Fish Farm Monitoring
 tags:
-- 안드로이드 어플리케이션
-- 모니터링
+- Android Application
+- Monitoring
 - Java
 - Cpp
 - Bluetooth
@@ -13,7 +13,7 @@ date: "2015-11-29T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 양식장 어플 메인화면
+  caption: Application main screen
   focal_point: Smart
 
 #links:
@@ -34,30 +34,30 @@ url_video: ""
 slides: example
 ---
 
-##	요약
-- Bluetooth를 이용한 양식장 수조의 수질센서 정보를 실시간 확인 및 관리 할 수 있는 Android Application
+##	Summary
+- Development of Android Application that can check and manage water quality sensor information of fish tank using Bluetooth in real time
 
-##	개요
-- 기간 : 15. 08 ~ 15. 11 (4 개월)
-- 역할 : Android Application 디자인 & 프로그램 개발
+##	Overview
+- Period : Aug. 15 ~ Nov. 15 (4 months)
+- Role : Design and Development Android Application
 
-##	프로젝트 내용
-- Bluetooth를 이용한 수질센서와 Application간의 통신
-- 실시간으로 센서정보를 받아 Application에 출력 
-- 센서에 등록된 제어 command를 이용한 센서 제어
-- 센서 offset, 측정 주기 등 센서 기본정보 설정
-- 실시간 센서 정보를 시간, 수온, CHL, BGA 등 센서 정보를 .csv 파일로 저장
+##	Project Content
+- Communication between Water Quality Sensors and Applications using Bluetooth
+- Receive sensor information in real time and output to application 
+- Sensor control using the control command registered with the sensor
+- Setting sensor basic information such as sensor offset, measurement cycle, etc.
+- Store sensor information such as real-time time, water temperature, CHL, BGA, etc. in .csv file
 
-##	개발 환경
+##	Development Environment
 - Android OS(Jelly Bean)
 - Bluetooth 4.0 (BLE)
 - Android Studio
 - java
 - CPP
 
-##	성과
-- 해외 제품의 국산화
-- 모니터링을 위한 프로토 타입 시스템 개발
+##	Result
+- Localization of products
+- Development of prototype system for fish farm monitoring
 
-{{< figure src="fishfarm_file_save2.jpg" title="양식장 어플 파일 저장화면" lightbox="true" >}}
-{{< figure src="fishfarm_data_save_result.jpg" title="양식장 어플 파일 저장 결과" lightbox="true" >}}
+{{< figure src="fishfarm_file_save2.jpg" title="saving file" lightbox="true" >}}
+{{< figure src="fishfarm_data_save_result.jpg" title="saving file result" lightbox="true" >}}
