@@ -8,8 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-# title = "Projects"
-title = "프로젝트"
+title = "Projects"
 subtitle = ""
 
 [content]
@@ -30,8 +29,8 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "졸업"
-    tag = "졸업"
+    name = "Graduation work"
+    tag = "Graduation work"
 
   [[content.filter_button]]
     name = "C++"
@@ -42,8 +41,8 @@ subtitle = ""
     tag = "Arm Core"
 
   [[content.filter_button]]
-    name = "수상"
-    tag = "수상"
+    name = "Award"
+    tag = "Award"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
