@@ -8,8 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-# title = "Accomplish&shy;ments"
-title = "수상내역"
+title = "Accomplish&shy;ments"
 subtitle = ""
 
 # Date format
@@ -23,13 +22,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "아산시"
-  organization_url = "http://rgc.asan.go.kr"
-  title = "제 4회 DOWA RGC 전국 로봇 페스티벌"
-  url = ""
+  organization = "Asan-si"
+  organization_url = ""
+  title = "The 4th DOWA RGC National Robot Festival"
+  url = "http://rgc.asan.go.kr"
   certificate_url = ""
   date_start = "2013-10-18"
   date_end = "2013-10-21"
-  description = "준우승 - 로봇 격투기 일반부"
+  description = "SECOND PLACE in Robot Fighter"
 
 +++
