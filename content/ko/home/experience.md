@@ -32,10 +32,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   직무:
-  * FPGA
-  * Xilinx
-  * 5G
-  * IoT
+  * Xilinx를 이용한 5G 통신모듈 제작
+  * Zynq에서 RF 신호 처리를 위한 application 개발
+  * 임베디드 SoC
   """
 
 [[experience]]
