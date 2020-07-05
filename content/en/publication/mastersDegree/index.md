@@ -1,5 +1,5 @@
 ---
-title: "선회와 상승을 고려한 무인항공기의 3차원 복합 비행경로 알고리즘 연구"
+title: "A Study on 3-Dimensional Combined Flight Path Algorithm for UAV Considering Turning and Elevation"
 authors:
 - admin
 date: "2020-02-27T00:00:00Z"
@@ -15,22 +15,26 @@ publishDate: "2020-01-27T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "한국산업기술대학교 일반대학원"
+publication: "Graduate School Korea Polytechnic University"
 publication_short: ""
 
-abstract: "전 세계적으로 무인항공기 시장은 폭발적인 증가를 보여주고 있다. 또한 최근에는 농업, 서비스업 등 다양한 분야에 이용하고 있으며 특히 군사용으로는 감시, 정찰, 공격 등 다양한 임무에 활용되고 있다. 무인항공기의 성공적인 임무 수행을 위해선 지정된 지역까지 상대에게 적발되지 않고 높이와 위력을 가지는 지형지물과 SAM-Site에 유의하면서 이동해야한다. 이에 따라 임무의 난이도가 급격하게 상승되어 사고율과 임무 실패율이 높아진다.
-<p>무인항공기의 임무 성공률을 높이기 위해 많은 연구기관에서 경로 선정과 관련한 다양한 알고리즘 및 시뮬레이션 연구결과를 제시하고 있다.</p>
-<p>그러나 기존에 연구된 대부분의 무인항공기 경로 선정 알고리즘은 실제 무인항공기 임무에 적용하기 힘든 2차원 공간에서 경로 선정을 진행하고 있다. 또한 3차원 경로 선정 연구는 2차원 평면상에서의 경로 선정 후 수직정보를 적용하거나 일정한 운항고도에서의 경로 선정을 이용하여 선회 또는 상승 비행 중 한 가지 비행방법만을 이용하므로 3차원 경로 선정이라고 표현하기 어렵다. 따라서 선회와 상승 비행 중 상황에 따라 효율적인 방법을 선정하는 복합 경로 선정이 필요하다. 본 논문에서는 3차원 공간에서 위협요소인 산, 협곡과 같은 지형지물과 SAM-Site의 위력을 복합적으로 고려하여 상황에 따라 무인항공기의 실제 비행 방법인 선회, 상승, 하강비행에 맞춘 최적의 경로를 산출하는 알고리즘을 제시한다. 마지막으로 시뮬레이션 결과를 통하여 제안하는 알고리즘의 효용성 검증 결과를 제시한다.</p>"
+abstract: "In this paper, The global market for unmanned aerial vehicles (UAV) is showing explosive growth. Moreover, UAVs are being actively used in various areas including the agriculture and service industries. For military purposes, UAVs perform diverse missions such as surveillance, reconnaissance and attacks. To successfully accomplish these missions, a UAV needs to travel to a designated point without being detected by opponents while keeping off the presence of high and obstructive geographic features and SAM sites. In these situations, the difficulty level of the mission drastically increases, which results in higher accident and failure rates.
+
+<p>Many research institutes have presented various algorithms and simulation results regarding the determination of the UAV’s flight path in order to improve the success rate of missions.</p>
+
+<p>However, most UAV flight path selection algorithms developed in existing studies selected a flight path in a two-dimensional space, which is hardly applicable to real UAV missions. Moreover, other studies on three-dimensional flight paths selected a path in a two-dimensional plane and then applied vertical information or examined either circling flight or ascending flight by applying paths at a constant flight altitude. Thus, these methods can hardly be regarded as selecting a flight path in a three-dimensional space. Consequently, a composite method to determine an efficient path for each flight mode (circling or ascending) is required.</p>
+
+<p>This study proposes an algorithm that identifies optimal paths for a UAV’s real flight modes of circling, descending, and ascending by comprehensively analyzing three-dimensional risk factors such as geographic features (mountains, valleys, etc.) and SAM sites. Finally, the effectiveness of the proposed algorithm is verified through simulation results.</p>"
 
 # Summary. An optional shortened abstract.
-summary: 무인항공기의 임무 성공률을 높이고 효율적인 비행경로 선정을 위해 선회와 상승비행을 고려한 UAV 3차원 복합 경로 선정 알고리즘 연구
+summary: A Study on the UAV 3D composite path selection algorithm considering flight modes of circling, descending, and ascending to improve mission success rate and efficient flight path selection for UAV
 
 tags:
-- 3차원 경로선정
-- 알고리즘
-- 무인항공기
-- 보로노이 다이어그램
-- 베지어 곡선
+- 3D path planning
+- Algorithm
+- UAV(Unmanned Aerial Vehicle)
+- Voronoi Diagram
+- Bézier Curve
 - MATLAB
 featured: true
 
