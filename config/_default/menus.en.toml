@@ -4,12 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "메인화면"
+  name = "Home"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "프로젝트"
+  name = "Projects"
   url = "#projects"
   weight = 20
 
@@ -19,18 +19,18 @@
 #  weight = 30
 
 [[main]]
-  name = "논문"
+  name = "Papers"
   url = "#publications"
   weight = 40
 
 [[main]]
-  name = "연락처"
+  name = "Contact"
   url = "#contact"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-  name = "이력서"
-  url = "files/YoonSeoyoung_resume_VerPublic_Kor.pdf"
+  name = "CV"
+  url = "files/YoonSeoyoung_resume_VerPublic_Eng.pdf"
   weight = 70
