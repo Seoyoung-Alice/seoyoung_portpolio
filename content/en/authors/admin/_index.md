@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 윤 서 영 (尹 瑞 英)
+title: Yoon Seoyoung   Alice (尹 瑞 英)
 
 # Username (this should match the folder name)
 authors:
@@ -12,28 +12,28 @@ authors:
 superuser: true
 
 # Role/position
-role: 임베디드 SoC 설계 / 주임 연구원
+role: Embedded SoC Design / Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: 유비웍스
+- name: UBIWORKS Co., Ltd
   url: "http://www.ubiworks.co.kr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 가나다라마바사
+#bio: short bio
 
 interests:
 - Embedded Linux System
 - IoT (Indoor Positioning, Home Security)
-- 자율주행 자동차 및 자율주행 시스템
+- autonomous car & system
 
 education:
   courses:
-  - course: 신기술융합학과(전자공학전공)
-    institution: 한국산업기술대학교 일반대학원 석사졸업
+  - course: Master of Science in Advanced Convergence Technology(Major of Electronic Engineering)
+    institution: Korea Polytechnic Univ.
     year: 2019
-  - course: 전자공학부 전자공학전공
-    institution: 한국산업기술대학교
+  - course: Bachelor of Science in Electronic Engineering
+    institution: Korea Polytechnic Univ.
     year: 2017
 
 # Social/Academic Networking
@@ -51,7 +51,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/YoonSeoyoung_resume_VerPublic_Kor.pdf
+  link: files/YoonSeoyoung_resume_VerPublic_Eng.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -63,10 +63,10 @@ user_groups:
 - Visitors
 ---
 
-## 빠른 적응, 응용 능력을 바탕으로 프로젝트를 수행하는 괴물 Software 엔지니어!
+## Monster Software Engineer to Perform Projects Based on Rapid Adaptation and Application!
 
-- Linux에서 device driver, makefile 및 임베디드 application을 이용한 게임제작
-- MATLAB을 이용하여 UAV 3차원 경로 선정을 위한 알고리즘 및 시뮬레이션 프로그램 개발
-- 프로그래밍에 관심이 많아 C, C++, MFC, java, python, MATLAB 등 컴파일 언어부터 인터프리티드 언어까지 다양한 언어를 공부함
-- 빠르고 정확한 코드 분석능력을 기반으로 응용 프로그래밍 개발에 능하며 Smart Study Room, 양식장 모니터링 앱, 임베디드 리눅스를 이용한 게임 등 다양한 프로젝트를 수행함
-- IoT 시스템에 관심이 있어 Muchine Learning, AWS, IBM cloud, Node Red, Json, docker, QT 등을 이용한 간단한 음성인식 IoT 시스템을 구현함
+- Game production using device driver, makefile, and embedded application on Linux
+- Development of algorithm and simulation program for UAV 3D path planning using MATLAB
+- Interested in programming, so I studied various languages, from compiled to interpreted languages such as C, C++, MFC, java, python, and MATLAB
+- Based on the ability to analyze code quickly and accurately, I am good at developing application programming and carried out various projects such as Smart Study Room, Fish-farm monitoring app, and games using embedded Linux
+- Interested in IoT system, I have experience in implementing a simple voice recognition IoT system using Muchine Learning, AWS, IBM cloud, Node Red, Json, docker, QT, etc
