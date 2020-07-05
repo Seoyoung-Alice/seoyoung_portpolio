@@ -1,5 +1,5 @@
 ---
-title: "GPR 신호 획득률 개선을 위한 RTS 및 다중 ADC에 관한 연구"
+title: "A Study on RTS and Multiple ADC for Improvement of GPR Signal Acquisition Rate"
 authors:
 - admin
 - 임영인
@@ -17,24 +17,26 @@ publishDate: "2017-01-27T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "한국산업기술대학교 전자공학부"
+publication: "Korea Polytechnic University"
 publication_short: ""
 
-abstract: "GPR은 송신기가 내보낸 임펄스 형태의 전자파가 반사되어 돌아온 신호를 수신하는 지하 투과 레이더이다. 현재 사용하는 GPR 장비는 느린 데이터 처리 속도로 인하여 탐사 장비의 속도가 느린 문제가 있다. 이로 인해 GPR 탐사가 도로 정체를 야기 시킨다. 
-<p>본 논문은 이러한 문제점을 보안하기 위해서 GPR 수신기의 속도 향상과 유효한 데이터의 획득률을 높이기 위한 방법을 제안하고 이를 연구 및 설계하였다. 연구를 통해 고속 샘플링과 데이터 누적을 이용하여 GPR 장비를 통해 획득한 데이터에서 얻고자하는 신호가 더욱 뚜렷하게 나오도록 하여 유효 데이터의 획득률을 높였다. 또한, ADC 2개가 처리하는 데이터를 4개의 ADC를 통해 ADC 마다 처리하는 데이터의 양을 줄여 데이터 처리 속도를 증가시켰다.</p>
-<p>본 연구에서 제안하는 GPR 장비의 속도 향상과 유효 데이터의 획득률 증가를 위한 방법을 연구하였으며, 설계 및 시뮬레이션을 통해 연구한 방법의 구현 가능성을 제시하였다.</p>"
+abstract: "The GPR is an underground transmission radar that receives signals that are returned by reflective electromagnetic waves in the form of impulses emitted by transmitters. Due to the slow data processing speed of the GPR equipment currently in use, there is a problem with the slow speed of the exploration equipment. This causes the GPR exploration to cause road congestion.
+
+<p>In order to secure these problems, this paper proposed and studied and designed a method for improving the speed of GPR receiver and increasing the acquisition rate of valid data. The study increased the acquisition rate of the effective data by making the signal desired to be obtained from the data obtained through the GPR equipment more pronounced using high-speed sampling and data accumulation. In addition, the data processed by two ADCs was reduced by the amount of data processed per ADC through four ADCs to increase the data processing speed.</p>
+
+<p>Methods for improving the speed of GPR equipment proposed in this study and increasing the acquisition rate of effective data were studied, and the feasibility of implementing the methods studied through design and simulation was presented.</p>"
 
 # Summary. An optional shortened abstract.
-summary: GPR 장비의 속도 향상과 유효 데이터의 획득률 증가를 위한 RTS 및 다중 ADC를 이용한 시스템 연구
+summary: A study on systems using RTS and multiple ADCs for improving the speed of GPR equipment and increasing the acquisition rate of effective data
 
 tags:
 - GPR
 - RTS
-- RF 신호 처리
-- 다중 ADC
+- RF signal processing
+- Multiple ADC
 - Altera Cyclone
 - FPGA
-- 임베디드 SoC
+- Embedded SoC
 featured: true
 
 # links:
