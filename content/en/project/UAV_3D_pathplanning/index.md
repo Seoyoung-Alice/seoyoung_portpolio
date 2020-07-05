@@ -33,7 +33,7 @@ slides: example
 - Development of 3D path planning algorithm and GUI-based simulation program for UAV(Unmanned Aerial Vehicle)
 
 ##	Overview
-- Period : Jun. 17 ~ Jan. 19(20 Months)
+- Period : Jun. 17 ~ Jan. 19 (20 months)
 - Role : Development of 3D path planning algorithm and GUI-based path simulation program
 
 ##	Project Content
