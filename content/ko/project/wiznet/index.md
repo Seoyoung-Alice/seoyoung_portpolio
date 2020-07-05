@@ -17,7 +17,7 @@ image:
   caption: 사용 센서
   focal_point: Smart
 
-url_code: "https://github.com/Seoyoung-Alice"
+url_code: "https://github.com/Seoyoung-Alice/Smart_Study_Room_IoT"
 url_pdf: ""
 url_slides: ""
 url_video: ""

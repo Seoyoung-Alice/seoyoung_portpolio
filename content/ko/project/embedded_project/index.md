@@ -23,7 +23,7 @@ image:
 #  icon_pack: fab
 #  link: "https://github.com/Seoyoung-Alice"
 
-url_code: "https://github.com/Seoyoung-Alice"
+url_code: "https://github.com/Seoyoung-Alice/Embedded_Linux_Game"
 url_pdf: ""
 url_slides: ""
 url_video: ""

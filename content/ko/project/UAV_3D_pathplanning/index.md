@@ -16,7 +16,7 @@ image:
   caption: 3차원 경로 선정 결과
   focal_point: Smart
 
-url_code: "https://github.com/Seoyoung-Alice"
+url_code: "https://github.com/Seoyoung-Alice/3D_path_planning"
 url_pdf: ""
 url_slides: ""
 url_video: ""

@@ -24,7 +24,7 @@ image:
 #  icon_pack: fab
 #  link: https://github.com/Seoyoung-Alice
 
-url_code: "https://github.com/Seoyoung-Alice"
+url_code: "https://github.com/Seoyoung-Alice/GPR_system"
 url_pdf: ""
 url_slides: ""
 url_video: ""
