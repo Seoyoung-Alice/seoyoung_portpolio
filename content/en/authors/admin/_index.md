@@ -29,10 +29,10 @@ interests:
 
 education:
   courses:
-  - course: Master of Science in Advanced Convergence Technology(Major of Electronic Engineering)
+  - course: Master of Science in Advanced Convergence Technology(Major of Electronics Engineering)
     institution: Korea Polytechnic Univ.
     year: 2019
-  - course: Bachelor of Science in Electronic Engineering
+  - course: Bachelor of Science in Electronics Engineering
     institution: Korea Polytechnic Univ.
     year: 2017
 
