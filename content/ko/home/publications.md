@@ -10,7 +10,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 # Recent Publications
-title = "최신논문"
+title = "게재논문"
 subtitle = ""
 
 [content]
