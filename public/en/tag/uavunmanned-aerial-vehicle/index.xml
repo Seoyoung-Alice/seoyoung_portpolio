@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UAV(Unmanned Aerial Vehicle) | Seoyoung-Alice</title>
+    <link>/en/tag/uavunmanned-aerial-vehicle/</link>
+      <atom:link href="/en/tag/uavunmanned-aerial-vehicle/index.xml" rel="self" type="application/rss+xml" />
+    <description>UAV(Unmanned Aerial Vehicle)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>UAV(Unmanned Aerial Vehicle)</title>
+      <link>/en/tag/uavunmanned-aerial-vehicle/</link>
+    </image>
+    
+    <item>
+      <title>A Study on 3-Dimensional Combined Flight Path Algorithm for UAV Considering Turning and Elevation</title>
+      <link>/en/publication/mastersdegree/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/mastersdegree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Path Planning for UAV</title>
+      <link>/en/project/uav_3d_pathplanning/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/en/project/uav_3d_pathplanning/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of 3D path planning algorithm and GUI-based simulation program for UAV(Unmanned Aerial Vehicle)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Period : Jun. 17 ~ Jan. 19 (20 months)&lt;/li&gt;
+&lt;li&gt;Role : Development of 3D path planning algorithm and GUI-based path simulation program&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-content&#34;&gt;Project Content&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of 3D curve path planning algorithm considering actual UAV operation&lt;/li&gt;
+&lt;li&gt;Selecting a more efficient route by taking into account a combination of turns and rising flights&lt;/li&gt;
+&lt;li&gt;Development of SAM-Site and risk avoidance paths using Voronoi Diagram&lt;/li&gt;
+&lt;li&gt;Development of curved paths close to the actual operation of UAV by Bézier Curve&lt;/li&gt;
+&lt;li&gt;Algorithm verification with MATLAB&lt;/li&gt;
+&lt;li&gt;Development of simulation program based on GUI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;development-environment&#34;&gt;Development Environment&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;MATLAB&lt;/li&gt;
+&lt;li&gt;Voronoi Diagram&lt;/li&gt;
+&lt;li&gt;TSP(Traveling Salesperson Problem) Algorithm&lt;/li&gt;
+&lt;li&gt;Bézier Curve&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Master&amp;rsquo;s Thesis&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-3d-path-planning-resultside&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/en/project/uav_3d_pathplanning/UAV_path_result_3D_2_hub1210ee24d7ca391183a2aa88a24ad02_986742_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;3D path planning result(side)&#34;&gt;
+
+
+  &lt;img data-src=&#34;/en/project/uav_3d_pathplanning/UAV_path_result_3D_2_hub1210ee24d7ca391183a2aa88a24ad02_986742_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1440&#34; height=&#34;744&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    3D path planning result(side)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

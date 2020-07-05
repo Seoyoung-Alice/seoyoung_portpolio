@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embedded | Seoyoung-Alice</title>
+    <link>/en/tag/embedded/</link>
+      <atom:link href="/en/tag/embedded/index.xml" rel="self" type="application/rss+xml" />
+    <description>Embedded</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Embedded</title>
+      <link>/en/tag/embedded/</link>
+    </image>
+    
+    <item>
+      <title>Snatch! Colors!(made with embedded Linux)</title>
+      <link>/en/project/embedded_project/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/en/project/embedded_project/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A game that presses random colors in order within the time limit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Period : 16. 10 ~ 16. 11 (2 months)&lt;/li&gt;
+&lt;li&gt;Role : Team Leader(coordinate the duration, encourage team member) / merge programs / Control Touch LCD Image with Frame Buffer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-content&#34;&gt;Project Content&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The touch LCD displays random colors at random locations&lt;/li&gt;
+&lt;li&gt;Buzzer sounds with scary pictures if not within the time limit or incorrect&lt;/li&gt;
+&lt;li&gt;Use Linux device driver to control buzzer, button, touch LCD, etc.&lt;/li&gt;
+&lt;li&gt;Design &amp;amp; Makefile Development of device driver for touch LCD, buzzer, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;development-environment&#34;&gt;Development Environment&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Arm Cortex-A9 Based Equipment&lt;/li&gt;
+&lt;li&gt;Linux Ubuntu&lt;/li&gt;
+&lt;li&gt;C, CPP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Studying a foundation for understanding Linux and developing device drivers and makefile&lt;/li&gt;
+&lt;li&gt;Analyze and apply the sample device driver and makefile to develop&lt;/li&gt;
+&lt;li&gt;Implementing functions by understanding the performance structure of each device and target device&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-game-screen&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/en/project/embedded_project/embedded_3_hu5b543553de100250893cd70c389a1648_16849_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Game screen&#34;&gt;
+
+
+  &lt;img data-src=&#34;/en/project/embedded_project/embedded_3_hu5b543553de100250893cd70c389a1648_16849_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;304&#34; height=&#34;273&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Game screen
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-game-interface&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/en/project/embedded_project/embedded_4_hudea2c42d3faf686dc45933edd1b5d3f7_20814_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Game interface&#34;&gt;
+
+
+  &lt;img data-src=&#34;/en/project/embedded_project/embedded_4_hudea2c42d3faf686dc45933edd1b5d3f7_20814_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;304&#34; height=&#34;268&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Game interface
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-when-game-over&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/en/project/embedded_project/embedded_5_hu6d0461940cf5c231bce7863e46bb1dbd_13981_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;when Game Over&#34;&gt;
+
+
+  &lt;img data-src=&#34;/en/project/embedded_project/embedded_5_hu6d0461940cf5c231bce7863e46bb1dbd_13981_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;304&#34; height=&#34;226&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    when Game Over
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
