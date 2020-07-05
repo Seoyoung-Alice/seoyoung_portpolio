@@ -31,7 +31,7 @@ slides: example
 - Development of Fighting humanoid using the design of humanoid and the development of humanoid motion
 
 ##	Overview
-- Period : 13. 07 ~ 13. 10 (4개월)
+- Period : 13. 07 ~ 13. 10 (4 months)
 - Role : Humanoid 3D modeling, Humanoid motion control
 
 ##	Project Content
