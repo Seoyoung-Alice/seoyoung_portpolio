@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   date_start = "2020-02-03"
   date_end = ""
   description = """
-  직무:
+  Responsibilities include:
   * Development of 5G Communication Module using Xilinx
   * Development of an application for RF signal processing in Zynq
   * Design Embedded SoC
