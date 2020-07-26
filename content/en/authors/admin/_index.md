@@ -69,7 +69,7 @@ user_groups:
 
 ## Monster Software Engineer to Perform Projects Based on Rapid Adaptation and Application!
 
-* Embedded Application Development --- Creating games on the Arm Board through the development of Device Driver and Makefile in Linux environments
-* Development of Algorithm Using MATLAB --- Development of Algorithm and Simulation Program for UAV 3D path planning using MATLAB
-* Experiences in developing various programming languages --- I am very interested in programming, so I studied various languages, from compiled to interpreted languages such as C, C++, MFC, java, python, and MATLAB.
-* Experience performing various projects --- Based on the ability to analyze code quickly and accurately, I am good at developing application programming and carried out various projects such as Smart Study Room, Fish-farm monitoring app, and games using Embedded Linux
+* **Embedded Application Development** --- Creating games on the Arm Board through the development of Device Driver and Makefile in Linux environments
+* **Development of Algorithm Using MATLAB** --- Development of Algorithm and Simulation Program for UAV 3D path planning using MATLAB
+* **Experiences in developing various programming languages** --- I am very interested in programming, so I studied various languages, from compiled to interpreted languages such as C, C++, MFC, java, python, and MATLAB.
+* **Experience performing various projects** --- Based on the ability to analyze code quickly and accurately, I am good at developing application programming and carried out various projects such as Smart Study Room, Fish-farm monitoring app, and games using Embedded Linux
