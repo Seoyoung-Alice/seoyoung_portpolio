@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yoon Seoyoung   Alice
+title: Yoon Seoyoung (Alice Yoon)
 
 # Username (this should match the folder name)
 authors:
@@ -24,8 +24,9 @@ organizations:
 
 interests:
 - Embedded Linux System
-- IoT (Indoor Positioning, Home Security)
-- autonomous car & system
+- IoT System (Indoor Positioning, Home IoT)
+- Edge Computing
+- AI
 
 education:
   courses:
@@ -44,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/seoyoung-yoon-3b578a1ab
 - icon: github
   icon_pack: fab
   link: https://github.com/Seoyoung-Alice
@@ -65,7 +69,7 @@ user_groups:
 
 ## Monster Software Engineer to Perform Projects Based on Rapid Adaptation and Application!
 
-- Game production using device driver, makefile, and embedded application on Linux
-- Development of algorithm and simulation program for UAV 3D path planning using MATLAB
-- Interested in programming, so I studied various languages, from compiled to interpreted languages such as C, C++, MFC, java, python, and MATLAB
-- Based on the ability to analyze code quickly and accurately, I am good at developing application programming and carried out various projects such as Smart Study Room, Fish-farm monitoring app, and games using embedded Linux
+* Embedded Application Development --- Creating games on the Arm Board through the development of Device Driver and Makefile in Linux environments
+* Development of Algorithm Using MATLAB --- Development of Algorithm and Simulation Program for UAV 3D path planning using MATLAB
+* Experiences in developing various programming languages --- I am very interested in programming, so I studied various languages, from compiled to interpreted languages such as C, C++, MFC, java, python, and MATLAB.
+* Experience performing various projects --- Based on the ability to analyze code quickly and accurately, I am good at developing application programming and carried out various projects such as Smart Study Room, Fish-farm monitoring app, and games using Embedded Linux
