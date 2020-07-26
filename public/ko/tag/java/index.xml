@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java | Seoyoung-Alice</title>
+    <link>/ko/tag/java/</link>
+      <atom:link href="/ko/tag/java/index.xml" rel="self" type="application/rss+xml" />
+    <description>Java</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><lastBuildDate>Sun, 29 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Java</title>
+      <link>/ko/tag/java/</link>
+    </image>
+    
+    <item>
+      <title>양식장 모니터링 앱 개발</title>
+      <link>/ko/project/fishfarm/</link>
+      <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/ko/project/fishfarm/</guid>
+      <description>&lt;h2 id=&#34;요약&#34;&gt;요약&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bluetooth를 이용한 양식장 수조의 수질센서 정보를 실시간 확인 및 관리 할 수 있는 Android Application&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개요&#34;&gt;개요&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;기간 : 15. 08 ~ 15. 11 (4 개월)&lt;/li&gt;
+&lt;li&gt;역할 : Android Application 디자인 &amp;amp; 프로그램 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;프로젝트-내용&#34;&gt;프로젝트 내용&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bluetooth를 이용한 수질센서와 Application간의 통신&lt;/li&gt;
+&lt;li&gt;실시간으로 센서정보를 받아 Application에 출력&lt;/li&gt;
+&lt;li&gt;센서에 등록된 제어 command를 이용한 센서 제어&lt;/li&gt;
+&lt;li&gt;센서 offset, 측정 주기 등 센서 기본정보 설정&lt;/li&gt;
+&lt;li&gt;실시간 센서 정보를 시간, 수온, CHL, BGA 등 센서 정보를 .csv 파일로 저장&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개발-환경&#34;&gt;개발 환경&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Android OS(Jelly Bean)&lt;/li&gt;
+&lt;li&gt;Bluetooth 4.0 (BLE)&lt;/li&gt;
+&lt;li&gt;Android Studio&lt;/li&gt;
+&lt;li&gt;java&lt;/li&gt;
+&lt;li&gt;CPP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;성과&#34;&gt;성과&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;해외 제품의 국산화&lt;/li&gt;
+&lt;li&gt;모니터링을 위한 프로토 타입 시스템 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-양식장-어플-파일-저장화면&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/ko/project/fishfarm/fishfarm_file_save2_huaadb7ca94421c4aced2f0b8e7521dd1b_21963_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;양식장 어플 파일 저장화면&#34;&gt;
+
+
+  &lt;img data-src=&#34;/ko/project/fishfarm/fishfarm_file_save2_huaadb7ca94421c4aced2f0b8e7521dd1b_21963_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;192&#34; height=&#34;329&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    양식장 어플 파일 저장화면
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-양식장-어플-파일-저장-결과&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/ko/project/fishfarm/fishfarm_data_save_result_huc541b20098de6d7279e81a295acd6d6c_19093_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;양식장 어플 파일 저장 결과&#34;&gt;
+
+
+  &lt;img data-src=&#34;/ko/project/fishfarm/fishfarm_data_save_result_huc541b20098de6d7279e81a295acd6d6c_19093_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;326&#34; height=&#34;268&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    양식장 어플 파일 저장 결과
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

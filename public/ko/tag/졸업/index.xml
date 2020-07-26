@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>졸업 | Seoyoung-Alice</title>
+    <link>/ko/tag/%EC%A1%B8%EC%97%85/</link>
+      <atom:link href="/ko/tag/%EC%A1%B8%EC%97%85/index.xml" rel="self" type="application/rss+xml" />
+    <description>졸업</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>졸업</title>
+      <link>/ko/tag/%EC%A1%B8%EC%97%85/</link>
+    </image>
+    
+    <item>
+      <title>UAV를 위한 3차원 경로 선정</title>
+      <link>/ko/project/uav_3d_pathplanning/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/ko/project/uav_3d_pathplanning/</guid>
+      <description>&lt;h2 id=&#34;요약&#34;&gt;요약&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;무인항공기용 3차원 경로선정 알고리즘 및 GUI 기반의 경로 선정 시뮬레이션 프로그램 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개요&#34;&gt;개요&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;기간 : 17. 06 ~ 19. 01(약 20개월)&lt;/li&gt;
+&lt;li&gt;역할 : 3D 경로 선정 알고리즘 개발, GUI 기반 경로 시뮬레이션 프로그램 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;프로젝트-내용&#34;&gt;프로젝트 내용&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;실제 무인항공기 운항을 고려한 3차원 곡선 경로 선정 알고리즘 개발&lt;/li&gt;
+&lt;li&gt;선회와 상승 비행을 복합적으로 고려하여 보다 효율적인 운항경로 선정&lt;/li&gt;
+&lt;li&gt;보로노이 다이어그램을 이용한 SAM-Site 및 위험요소 회피 경로 개발&lt;/li&gt;
+&lt;li&gt;베지에 곡선을 이용한 실제 무인항공기 운항에 가까운 곡선 경로 개발&lt;/li&gt;
+&lt;li&gt;MATLAB을 이용한 알고리즘 검증&lt;/li&gt;
+&lt;li&gt;GUI 기반의 시뮬레이션 프로그램 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개발-환경&#34;&gt;개발 환경&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;MATLAB(경로선정 알고리즘 검정 및 시뮬레이션 프로그램 개발 프로그램)&lt;/li&gt;
+&lt;li&gt;voronoi 다이어그램&lt;/li&gt;
+&lt;li&gt;TSP 알고리즘&lt;/li&gt;
+&lt;li&gt;베지에 곡선&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;성과&#34;&gt;성과&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;석사 졸업 논문&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-3차원-경로-선정-결과측면&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/ko/project/uav_3d_pathplanning/UAV_path_result_3D_2_hub1210ee24d7ca391183a2aa88a24ad02_986742_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;3차원 경로 선정 결과(측면)&#34;&gt;
+
+
+  &lt;img data-src=&#34;/ko/project/uav_3d_pathplanning/UAV_path_result_3D_2_hub1210ee24d7ca391183a2aa88a24ad02_986742_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1440&#34; height=&#34;744&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    3차원 경로 선정 결과(측면)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>GPR 신호 획득률 개선을 위한 RTS 및 다중 ADC 설계</title>
+      <link>/ko/project/graduation_work/</link>
+      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/ko/project/graduation_work/</guid>
+      <description>&lt;h2 id=&#34;요약&#34;&gt;요약&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;RTS 및 다중 ADC를 이용한 GPR 장비에서의 신호 수신 획득률 증가 및 속도 향상을 위한 임베디드 SoC 설계&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개요&#34;&gt;개요&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;기간 : 15. 06 ~ 17. 04 (11개월)&lt;/li&gt;
+&lt;li&gt;역할 : UART를 이용한 통신 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;프로젝트-내용&#34;&gt;프로젝트 내용&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GPR 장비의 송신기에서 보낸 UWB 신호가 장애물에 반사되어 돌아오는 신호를 통해 탐사하는 레이더&lt;/li&gt;
+&lt;li&gt;GPR 수신기의 속도 향상과 유효 데이터 획득률을 높이기 위해 고속 샘플링 및 데이터 누적을 이용&lt;/li&gt;
+&lt;li&gt;수신 데이터의 고속 처리를 위해 ADC의 개수를 늘려 데이터 처리 속도 증가&lt;/li&gt;
+&lt;li&gt;ADC를 이용한 수신 아날로그 신호 처리 시스템&lt;/li&gt;
+&lt;li&gt;DPRAM을 이용한 데이터 Sync 조절&lt;/li&gt;
+&lt;li&gt;UART 통신을 통한 컴퓨터 및 장비간의 데이터 전송&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개발-환경&#34;&gt;개발 환경&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;VHDL&lt;/li&gt;
+&lt;li&gt;Quartus&lt;/li&gt;
+&lt;li&gt;Modelsim을 이용한 시뮬레이션&lt;/li&gt;
+&lt;li&gt;Altera Cyclone Series&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;성과&#34;&gt;성과&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;학부 졸업작품 완성 및 결과 논문 개재&lt;/li&gt;
+&lt;li&gt;GPR 장비의 성능 향상을 위한 고속 데이터 처리 프로토 시스템 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-시스템-모식도&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/ko/project/graduation_work/graduation_diagram_hufe6f94b592a98094e7fba4015d082cf5_20924_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;시스템 모식도&#34;&gt;
+
+
+  &lt;img data-src=&#34;/ko/project/graduation_work/graduation_diagram_hufe6f94b592a98094e7fba4015d082cf5_20924_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;554&#34; height=&#34;288&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    시스템 모식도
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-시스템-하드웨어&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/ko/project/graduation_work/graduation_hw_hu92741c23e93ce41e265122811db920d0_47381_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;시스템 하드웨어&#34;&gt;
+
+
+  &lt;img data-src=&#34;/ko/project/graduation_work/graduation_hw_hu92741c23e93ce41e265122811db920d0_47381_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;537&#34; height=&#34;403&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    시스템 하드웨어
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-200m-시뮬레이션-결과-1&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/ko/project/graduation_work/graduation_200M_simulation_result_1_hud61a63494c5ca23516acfabed361d056_28239_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;200M 시뮬레이션 결과 1&#34;&gt;
+
+
+  &lt;img data-src=&#34;/ko/project/graduation_work/graduation_200M_simulation_result_1_hud61a63494c5ca23516acfabed361d056_28239_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;206&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    200M 시뮬레이션 결과 1
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-200m-시뮬레이션-결과-2&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/ko/project/graduation_work/graduation_200M_simulation_result_2_hu4101650cb9980a0121cba2a35b94a4f8_34346_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;200M 시뮬레이션 결과 2&#34;&gt;
+
+
+  &lt;img data-src=&#34;/ko/project/graduation_work/graduation_200M_simulation_result_2_hu4101650cb9980a0121cba2a35b94a4f8_34346_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;605&#34; height=&#34;220&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    200M 시뮬레이션 결과 2
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-200m-rts-결과by-matlab&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/ko/project/graduation_work/graduation_200M_RTS_result_mathlab_huc66a34cd1d7fac1863c43f9b7d8dc0a2_14395_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;200M RTS 결과(by MATLAB)&#34;&gt;
+
+
+  &lt;img data-src=&#34;/ko/project/graduation_work/graduation_200M_RTS_result_mathlab_huc66a34cd1d7fac1863c43f9b7d8dc0a2_14395_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;616&#34; height=&#34;187&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    200M RTS 결과(by MATLAB)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-신호-측정-결과by-오실로스코프&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/ko/project/graduation_work/graduation_result_osil_hu1a91dda7336532431d8ea6bf035c7758_29426_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;신호 측정 결과(by 오실로스코프)&#34;&gt;
+
+
+  &lt;img data-src=&#34;/ko/project/graduation_work/graduation_result_osil_hu1a91dda7336532431d8ea6bf035c7758_29426_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;391&#34; height=&#34;359&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    신호 측정 결과(by 오실로스코프)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

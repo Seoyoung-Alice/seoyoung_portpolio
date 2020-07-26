@@ -3,611 +3,611 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tag/3%EC%B0%A8%EC%9B%90-%EA%B2%BD%EB%A1%9C%EC%84%A0%EC%A0%95/</loc>
+    <loc>/ko/tag/3%EC%B0%A8%EC%9B%90-%EA%B2%BD%EB%A1%9C%EC%84%A0%EC%A0%95/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/7/</loc>
+    <loc>/ko/publication-type/7/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication-type/7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/publication-type/7/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/publication-type/7/"
+                />
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/ko/authors/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/authors/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/authors/"
+                />
   </url>
   
   <url>
-    <loc>/tag/matlab/</loc>
+    <loc>/ko/tag/matlab/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/matlab/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/matlab/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/matlab/"
+                />
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>/ko/publication_types/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/publication_types/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/publication_types/"
+                />
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>/ko/publication/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/publication/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/publication/"
+                />
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/ko/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/"
+                />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/ko/tags/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tags/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tags/"
+                />
   </url>
   
   <url>
-    <loc>/tag/%EB%AC%B4%EC%9D%B8%ED%95%AD%EA%B3%B5%EA%B8%B0/</loc>
+    <loc>/ko/tag/%EB%AC%B4%EC%9D%B8%ED%95%AD%EA%B3%B5%EA%B8%B0/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/%EB%B2%A0%EC%A7%80%EC%96%B4-%EA%B3%A1%EC%84%A0/</loc>
+    <loc>/ko/tag/%EB%B2%A0%EC%A7%80%EC%96%B4-%EA%B3%A1%EC%84%A0/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/%EB%B3%B4%EB%A1%9C%EB%85%B8%EC%9D%B4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8/</loc>
+    <loc>/ko/tag/%EB%B3%B4%EB%A1%9C%EB%85%B8%EC%9D%B4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mastersdegree/</loc>
+    <loc>/ko/publication/mastersdegree/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/mastersdegree/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/publication/mastersdegree/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/publication/mastersdegree/"
+                />
   </url>
   
   <url>
-    <loc>/tag/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</loc>
+    <loc>/ko/tag/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/%EC%9C%A4-%EC%84%9C-%EC%98%81-%E5%B0%B9-%E7%91%9E-%E8%8B%B1/</loc>
+    <loc>/ko/author/%EC%9C%A4-%EC%84%9C-%EC%98%81-%E5%B0%B9-%E7%91%9E-%E8%8B%B1/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/yoon-seoyoung-alice-%E5%B0%B9-%E7%91%9E-%E8%8B%B1/"
+                href="/author/yoon-seoyoung-alice-%E5%B0%B9-%E7%91%9E-%E8%8B%B1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/author/%EC%9C%A4-%EC%84%9C-%EC%98%81-%E5%B0%B9-%E7%91%9E-%E8%8B%B1/"
+                href="/ko/author/%EC%9C%A4-%EC%84%9C-%EC%98%81-%E5%B0%B9-%E7%91%9E-%E8%8B%B1/"
                 />
   </url>
   
   <url>
-    <loc>/tag/3%EC%B0%A8%EC%9B%90-%EA%B2%BD%EB%A1%9C%EC%84%A0%EC%A0%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</loc>
+    <loc>/ko/tag/3%EC%B0%A8%EC%9B%90-%EA%B2%BD%EB%A1%9C%EC%84%A0%EC%A0%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/ko/project/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/project/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/project/"
+                />
   </url>
   
   <url>
-    <loc>/project/uav_3d_pathplanning/</loc>
+    <loc>/ko/project/uav_3d_pathplanning/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/uav_3d_pathplanning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/project/uav_3d_pathplanning/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/project/uav_3d_pathplanning/"
+                />
   </url>
   
   <url>
-    <loc>/tag/%EC%84%9D%EC%82%AC%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8/</loc>
+    <loc>/ko/tag/%EC%84%9D%EC%82%AC%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/%EC%A1%B8%EC%97%85/</loc>
+    <loc>/ko/tag/%EC%A1%B8%EC%97%85/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/altera-cyclone/</loc>
+    <loc>/ko/tag/altera-cyclone/</loc>
     <lastmod>2017-04-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/altera-cyclone/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/altera-cyclone/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/altera-cyclone/"
+                />
   </url>
   
   <url>
-    <loc>/tag/fpga/</loc>
+    <loc>/ko/tag/fpga/</loc>
     <lastmod>2017-04-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/fpga/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/fpga/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/fpga/"
+                />
   </url>
   
   <url>
-    <loc>/tag/gpr/</loc>
+    <loc>/ko/tag/gpr/</loc>
     <lastmod>2017-04-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/gpr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/gpr/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/gpr/"
+                />
   </url>
   
   <url>
-    <loc>/project/graduation_work/</loc>
+    <loc>/ko/project/graduation_work/</loc>
     <lastmod>2017-04-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/graduation_work/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/project/graduation_work/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/project/graduation_work/"
+                />
   </url>
   
   <url>
-    <loc>/tag/rf-%EC%8B%A0%ED%98%B8-%EC%B2%98%EB%A6%AC/</loc>
+    <loc>/ko/tag/rf-%EC%8B%A0%ED%98%B8-%EC%B2%98%EB%A6%AC/</loc>
     <lastmod>2017-04-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/rts/</loc>
+    <loc>/ko/tag/rts/</loc>
     <lastmod>2017-04-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/rts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/rts/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/rts/"
+                />
   </url>
   
   <url>
-    <loc>/tag/%EB%8B%A4%EC%A4%91-adc/</loc>
+    <loc>/ko/tag/%EB%8B%A4%EC%A4%91-adc/</loc>
     <lastmod>2017-04-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-soc/</loc>
+    <loc>/ko/tag/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-soc/</loc>
     <lastmod>2017-04-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/gpr/</loc>
+    <loc>/ko/publication/gpr/</loc>
     <lastmod>2017-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/gpr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/publication/gpr/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/publication/gpr/"
+                />
   </url>
   
   <url>
-    <loc>/author/%EC%86%A1%EB%AF%BC%EC%A7%80/</loc>
+    <loc>/ko/author/%EC%86%A1%EB%AF%BC%EC%A7%80/</loc>
     <lastmod>2017-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/%EC%86%A1%EB%AF%BC%EC%A7%80/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/author/%EC%86%A1%EB%AF%BC%EC%A7%80/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/author/%EC%86%A1%EB%AF%BC%EC%A7%80/"
+                />
   </url>
   
   <url>
-    <loc>/author/%EC%9E%84%EC%98%81%EC%9D%B8/</loc>
+    <loc>/ko/author/%EC%9E%84%EC%98%81%EC%9D%B8/</loc>
     <lastmod>2017-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/%EC%9E%84%EC%98%81%EC%9D%B8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/author/%EC%9E%84%EC%98%81%EC%9D%B8/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/author/%EC%9E%84%EC%98%81%EC%9D%B8/"
+                />
   </url>
   
   <url>
-    <loc>/tag/arm-core/</loc>
+    <loc>/ko/tag/arm-core/</loc>
     <lastmod>2016-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/arm-core/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/arm-core/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/arm-core/"
+                />
   </url>
   
   <url>
-    <loc>/tag/c/</loc>
+    <loc>/ko/tag/c/</loc>
     <lastmod>2016-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/c/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/c/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/c/"
+                />
   </url>
   
   <url>
-    <loc>/tag/cpp/</loc>
+    <loc>/ko/tag/cpp/</loc>
     <lastmod>2016-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/cpp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/cpp/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/cpp/"
+                />
   </url>
   
   <url>
-    <loc>/tag/device-driver/</loc>
+    <loc>/ko/tag/device-driver/</loc>
     <lastmod>2016-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/device-driver/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/device-driver/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/device-driver/"
+                />
   </url>
   
   <url>
-    <loc>/tag/linux/</loc>
+    <loc>/ko/tag/linux/</loc>
     <lastmod>2016-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/linux/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/linux/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/linux/"
+                />
   </url>
   
   <url>
-    <loc>/tag/makefile/</loc>
+    <loc>/ko/tag/makefile/</loc>
     <lastmod>2016-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/makefile/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/makefile/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/makefile/"
+                />
   </url>
   
   <url>
-    <loc>/tag/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C/</loc>
+    <loc>/ko/tag/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C/</loc>
     <lastmod>2016-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/embedded_project/</loc>
+    <loc>/ko/project/embedded_project/</loc>
     <lastmod>2016-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/embedded_project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/project/embedded_project/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/project/embedded_project/"
+                />
   </url>
   
   <url>
-    <loc>/tag/bluetooth/</loc>
+    <loc>/ko/tag/bluetooth/</loc>
     <lastmod>2015-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/bluetooth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/bluetooth/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/bluetooth/"
+                />
   </url>
   
   <url>
-    <loc>/tag/java/</loc>
+    <loc>/ko/tag/java/</loc>
     <lastmod>2015-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/java/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/java/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/java/"
+                />
   </url>
   
   <url>
-    <loc>/tag/%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81/</loc>
+    <loc>/ko/tag/%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81/</loc>
     <lastmod>2015-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98/</loc>
+    <loc>/ko/tag/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98/</loc>
     <lastmod>2015-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/fishfarm/</loc>
+    <loc>/ko/project/fishfarm/</loc>
     <lastmod>2015-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/fishfarm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/project/fishfarm/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/project/fishfarm/"
+                />
   </url>
   
   <url>
-    <loc>/tag/iot/</loc>
+    <loc>/ko/tag/iot/</loc>
     <lastmod>2015-10-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/iot/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/iot/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/iot/"
+                />
   </url>
   
   <url>
-    <loc>/project/wiznet/</loc>
+    <loc>/ko/project/wiznet/</loc>
     <lastmod>2015-10-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/wiznet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/project/wiznet/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/project/wiznet/"
+                />
   </url>
   
   <url>
-    <loc>/tag/w7500/</loc>
+    <loc>/ko/tag/w7500/</loc>
     <lastmod>2015-10-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/w7500/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/w7500/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/w7500/"
+                />
   </url>
   
   <url>
-    <loc>/tag/wiznet/</loc>
+    <loc>/ko/tag/wiznet/</loc>
     <lastmod>2015-10-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/wiznet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/tag/wiznet/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/tag/wiznet/"
+                />
   </url>
   
   <url>
-    <loc>/tag/3d-%EB%AA%A8%EB%8D%B8%EB%A7%81/</loc>
+    <loc>/ko/tag/3d-%EB%AA%A8%EB%8D%B8%EB%A7%81/</loc>
     <lastmod>2013-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/humanoid/</loc>
+    <loc>/ko/project/humanoid/</loc>
     <lastmod>2013-10-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/humanoid/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
                 href="/project/humanoid/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/ko/project/humanoid/"
+                />
   </url>
   
   <url>
-    <loc>/tag/%EC%88%98%EC%83%81/</loc>
+    <loc>/ko/tag/%EC%88%98%EC%83%81/</loc>
     <lastmod>2013-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/%ED%9C%B4%EB%A8%B8%EB%85%B8%EC%9D%B4%EB%93%9C/</loc>
+    <loc>/ko/tag/%ED%9C%B4%EB%A8%B8%EB%85%B8%EC%9D%B4%EB%93%9C/</loc>
     <lastmod>2013-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/categories/"
+                href="/ko/categories/"
                 />
   </url>
   

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yoon Seoyoung   Alice (尹 瑞 英)
+title: Yoon Seoyoung   Alice
 
 # Username (this should match the folder name)
 authors:
@@ -69,4 +69,3 @@ user_groups:
 - Development of algorithm and simulation program for UAV 3D path planning using MATLAB
 - Interested in programming, so I studied various languages, from compiled to interpreted languages such as C, C++, MFC, java, python, and MATLAB
 - Based on the ability to analyze code quickly and accurately, I am good at developing application programming and carried out various projects such as Smart Study Room, Fish-farm monitoring app, and games using embedded Linux
-- Interested in IoT system, I have experience in implementing a simple voice recognition IoT system using Muchine Learning, AWS, IBM cloud, Node Red, Json, docker, QT, etc

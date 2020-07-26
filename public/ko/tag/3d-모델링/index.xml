@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D 모델링 | Seoyoung-Alice</title>
+    <link>/ko/tag/3d-%EB%AA%A8%EB%8D%B8%EB%A7%81/</link>
+      <atom:link href="/ko/tag/3d-%EB%AA%A8%EB%8D%B8%EB%A7%81/index.xml" rel="self" type="application/rss+xml" />
+    <description>3D 모델링</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><lastBuildDate>Wed, 30 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3D 모델링</title>
+      <link>/ko/tag/3d-%EB%AA%A8%EB%8D%B8%EB%A7%81/</link>
+    </image>
+    
+    <item>
+      <title>격투용 휴머노이드 개발</title>
+      <link>/ko/project/humanoid/</link>
+      <pubDate>Wed, 30 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/ko/project/humanoid/</guid>
+      <description>&lt;h2 id=&#34;요약&#34;&gt;요약&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;휴머노이드의 설계 및 모터 제어를 통한 휴머노이드 모션 개발을 이용한 격투용 휴머노이드 제작&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개요&#34;&gt;개요&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;기간 : 13. 07 ~ 13. 10 (4개월)&lt;/li&gt;
+&lt;li&gt;역할 : 휴머노이드 3D 모델링, 휴머노이드 모션 제어&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;프로젝트-내용&#34;&gt;프로젝트 내용&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Solid Works를 이용한 휴머노이드 3D 모델링&lt;/li&gt;
+&lt;li&gt;모터제어를 이용한 휴머노이드 모션 개발 및 프로그래밍&lt;/li&gt;
+&lt;li&gt;휴머노이드 모션 연구(회전, 이동, 넘어진 후 일어나는 동작)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;개발-환경&#34;&gt;개발 환경&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Solid Works 2010&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;성과&#34;&gt;성과&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;제 4회 DOWA RGC 전국 로봇 대회 준우승 / 2013. 10&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-대회-참가-사진&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/ko/project/humanoid/humanoid_2_hu61c887bb1347faa5d250610b66243d17_3975622_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;대회 참가 사진&#34;&gt;
+
+
+  &lt;img data-src=&#34;/ko/project/humanoid/humanoid_2_hu61c887bb1347faa5d250610b66243d17_3975622_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4928&#34; height=&#34;3264&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    대회 참가 사진
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 윤 서 영 (尹 瑞 英)
+title: 윤 서 영
 
 # Username (this should match the folder name)
 authors:
@@ -51,7 +51,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/YoonSeoyoung_resume_VerPublic_Kor.pdf
+  link: files/ko/YoonSeoyoung_resume_VerPublic_Kor.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,4 +69,3 @@ user_groups:
 - MATLAB을 이용하여 UAV 3차원 경로 선정을 위한 알고리즘 및 시뮬레이션 프로그램 개발
 - 프로그래밍에 관심이 많아 C, C++, MFC, java, python, MATLAB 등 컴파일 언어부터 인터프리티드 언어까지 다양한 언어를 공부함
 - 빠르고 정확한 코드 분석능력을 기반으로 응용 프로그래밍 개발에 능하며 Smart Study Room, 양식장 모니터링 앱, 임베디드 리눅스를 이용한 게임 등 다양한 프로젝트를 수행함
-- IoT 시스템에 관심이 있어 Muchine Learning, AWS, IBM cloud, Node Red, Json, docker, QT 등을 이용한 간단한 음성인식 IoT 시스템을 구현함

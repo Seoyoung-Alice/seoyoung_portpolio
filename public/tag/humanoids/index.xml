@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humanoids | Seoyoung-Alice</title>
+    <link>/tag/humanoids/</link>
+      <atom:link href="/tag/humanoids/index.xml" rel="self" type="application/rss+xml" />
+    <description>Humanoids</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Humanoids</title>
+      <link>/tag/humanoids/</link>
+    </image>
+    
+    <item>
+      <title>Making Fighting Humanoid</title>
+      <link>/project/humanoid/</link>
+      <pubDate>Wed, 30 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/project/humanoid/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of Fighting humanoid using the design of humanoid and the development of humanoid motion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Period : 13. 07 ~ 13. 10 (4 months)&lt;/li&gt;
+&lt;li&gt;Role : Humanoid 3D modeling, Humanoid motion control&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-content&#34;&gt;Project Content&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Humanoid 3D Modeling with Solid Works&lt;/li&gt;
+&lt;li&gt;Development and programming of humanoid motion using motor control&lt;/li&gt;
+&lt;li&gt;Humanoid motion study&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;development-environment&#34;&gt;Development Environment&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Solid Works 2010&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The 4th DOWA RGC National Robot Festival SECOND PLACE / Oct. 2013&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-picture-of-participation-in-a-contest&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/humanoid/humanoid_2_hu61c887bb1347faa5d250610b66243d17_3975622_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;a picture of participation in a contest&#34;&gt;
+
+
+  &lt;img data-src=&#34;/project/humanoid/humanoid_2_hu61c887bb1347faa5d250610b66243d17_3975622_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4928&#34; height=&#34;3264&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    a picture of participation in a contest
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

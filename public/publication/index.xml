@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>선회와 상승을 고려한 무인항공기의 3차원 복합 비행경로 알고리즘 연구</title>
+      <title>A Study on 3-Dimensional Combined Flight Path Algorithm for UAV Considering Turning and Elevation</title>
       <link>/publication/mastersdegree/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/mastersdegree/</guid>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>GPR 신호 획득률 개선을 위한 RTS 및 다중 ADC에 관한 연구</title>
+      <title>A Study on RTS and Multiple ADC for Improvement of GPR Signal Acquisition Rate</title>
       <link>/publication/gpr/</link>
       <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
       <guid>/publication/gpr/</guid>
