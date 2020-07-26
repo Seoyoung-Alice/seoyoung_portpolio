@@ -55,7 +55,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/YoonSeoyoung_resume_VerPublic_Eng.pdf
+  link: files/en/YoonSeoyoung_resume_VerPublic_Eng.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

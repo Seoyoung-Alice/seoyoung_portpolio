@@ -32,5 +32,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "이력서"
-  url = "files/YoonSeoyoung_resume_VerPublic_Kor.pdf"
+  url = "ko/files/YoonSeoyoung_resume_VerPublic_Kor.pdf"
   weight = 70
