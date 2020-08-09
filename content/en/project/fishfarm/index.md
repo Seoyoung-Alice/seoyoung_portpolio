@@ -13,7 +13,7 @@ date: "2015-11-29T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Application main screen
+  caption: Application main page
   focal_point: Smart
 
 #links:
@@ -59,5 +59,6 @@ slides: example
 - Localization of products
 - Development of prototype system for fish farm monitoring
 
+{{< figure src="fishfarm_setting.png" title="setting page" lightbox="true" >}}
 {{< figure src="fishfarm_file_save2.jpg" title="saving file" lightbox="true" >}}
-{{< figure src="fishfarm_data_save_result.jpg" title="saving file result" lightbox="true" >}}
+{{< figure src="fishfarm_data_save_result.png" title="saving file result" lightbox="true" >}}

@@ -59,5 +59,6 @@ slides: example
 - 해외 제품의 국산화
 - 모니터링을 위한 프로토 타입 시스템 개발
 
+{{< figure src="fishfarm_setting.png" title="양식장 어플 센서 설정화면" lightbox="true" >}}
 {{< figure src="fishfarm_file_save2.jpg" title="양식장 어플 파일 저장화면" lightbox="true" >}}
-{{< figure src="fishfarm_data_save_result.jpg" title="양식장 어플 파일 저장 결과" lightbox="true" >}}
+{{< figure src="fishfarm_data_save_result.png" title="양식장 어플 파일 저장 결과" lightbox="true" >}}
