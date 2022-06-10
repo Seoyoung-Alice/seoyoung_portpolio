@@ -26,7 +26,6 @@ interests:
 - Autonomous Driving
 - AI
 - Indoor Positioning
-- ECAD
 
 education:
   courses:
@@ -67,9 +66,9 @@ user_groups:
 - Visitors
 ---
 
-## Monster Software Engineer to Perform Projects Based on Rapid Adaptation and Application!
+## Introducing developer whose value is growing due to a 120% increase in work efficiency using communication skills!
 
-* **Embedded Application Development** --- Creating games on the Arm Board through the development of Device Driver and Makefile in Linux environments
+* **Development of LogicDesigner and Analysis ECAD data structure** --- LogicDesigner program for Schematic Design and ECAD data conversion program development through ECAD data structure analysis
 * **Development of Algorithm Using MATLAB** --- Development of Algorithm and Simulation Program for UAV 3D path planning using MATLAB
-* **Experiences in developing various programming languages** --- I am very interested in programming, so I studied various languages, from compiled to interpreted languages such as C, C++, MFC, java, python, and MATLAB.
-* **Experience performing various projects** --- Based on the ability to analyze code quickly and accurately, I am good at developing application programming and carried out various projects such as Smart Study Room, Fish-farm monitoring app, and games using Embedded Linux
+* **Embedded Application Development** --- Creating games on the Arm Board through the development of Device Driver and Makefile in Linux environments
+* **Win a prize in a humanoid fighting contest** --- Have experience designing humanoid drawings and motions myself and winning national humanoid fighting competition

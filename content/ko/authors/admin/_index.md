@@ -66,10 +66,10 @@ user_groups:
 - Visitors
 ---
 
-## 커뮤니케이션 능력을 이용한 업무효율의 120% 증가 효과를 보다!!!
+## 커뮤니케이션 능력을 이용한 업무효율의 120% 증가로 주가 상승 중인 개발자를 소개합니다!
 * **
 
-* **LogicDesigner 개발 및 ECAD 자료구조 분석** --- Schematic Designer을 위한 LogicDesigner 프로그램 및 ECAD 자료구조 분석을 통한 ECAD간 데이터 변환 프로그램 개발
+* **LogicDesigner 개발 및 ECAD 자료구조 분석** --- Schematic Design을 위한 LogicDesigner 프로그램 및 ECAD 자료구조 분석을 통한 ECAD간 데이터 변환 프로그램 개발
 * **UAV 3차원 경로 선정 알고리즘** --- 석사 연구 주제로 MATLAB을 활용하여 UAV 3차원 경로 선정 알고리즘을 연구함
 * **Embedded Application 개발** --- Arm 보드에서 Linux 환경의 Device driver, Makefile 개발을 통한 게임 제작
-* **휴머노이드 격투 대회 수상** --- 휴머노이드 도면과 모션을 직접 설계하여 전국 휴머노이드 격투 대회에 입상한 경력이 있음
+* **휴머노이드 격투 대회 수상** --- 휴머노이드 도면과 모션을 직접 설계하여 전국 휴머노이드 격투 대회에 입상

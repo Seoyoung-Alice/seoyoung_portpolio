@@ -18,19 +18,19 @@ subtitle = ""
   icon = "cplusplus-plain"
   icon_pack = "devicon"
   name = "C & C++"
-  description = "ADVANCED"
+  description = "INTERMEDIATE"
 
 [[feature]]
   icon = "android"
   icon_pack = "fab"
   name = "Android java"
-  description = "INTERMEDIATE"
+  description = "BEGINNER"
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "python"
-  description = "INTERMEDIATE"
+  description = "BEGINNER"
   
 [[feature]]
   icon = "comments"

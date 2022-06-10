@@ -23,6 +23,20 @@ date_format = "Jan 2006"
 
 # Responsibilities include -> 직무
 [[experience]]
+  title = "Developer - EDA"
+  company = "Altair"
+  company_url = "https://www.altair.co.kr/pollex/?gclid=Cj0KCQjw1N2TBhCOARIsAGVHQc71WyYxzCvHuatEkRd_kdcGaUGs2uVgoSN7yzHptk1y81alhMdsFWQaAnPBEALw_wcB"
+  location = "Bundang Seongnam Gyeonggi Korea"
+  date_start = "2020-10-19"
+  date_end = ""
+  description = """
+  직무:
+  * Development of ECAD structure conversion between the company and other companies through analysis of other companies' ECAD data structure
+  * Logic design program development
+  * PollEx suits maintenance and performance improvement
+  """
+
+[[experience]]
   title = "Research Engineer"
   company = "UBIWORKS Co., Ltd"
   company_url = "http://www.ubiworks.co.kr"
