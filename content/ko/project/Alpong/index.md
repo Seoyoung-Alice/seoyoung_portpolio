@@ -29,6 +29,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+## Link
+https://alpong.reliablecreator.com/
 
 ##	요약
 - Vue JS를 이용한 Reactive형 사내 탁구 동호회 경기 기록 및 경기 결과에 따른 회원별 점수 관리를 위한 웹프로그램
