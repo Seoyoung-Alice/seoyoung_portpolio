@@ -12,21 +12,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Embedded SoC Design / Research Engineer
+role: EDA-Altair PollEx Dev.1 / Developer
 
 # Organizations/Affiliations
 organizations:
-- name: UBIWORKS Co., Ltd
-  url: "http://www.ubiworks.co.kr"
+- name: Altair PollEx
+  url: "https://www.altair.co.kr/pollex/?gclid=Cj0KCQjw1N2TBhCOARIsAGVHQc71WyYxzCvHuatEkRd_kdcGaUGs2uVgoSN7yzHptk1y81alhMdsFWQaAnPBEALw_wcB"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: short bio
 
 interests:
-- Embedded Linux System
-- IoT System (Indoor Positioning, Home IoT)
-- Edge Computing
+- Autonomous Driving
 - AI
+- Indoor Positioning
+- ECAD
 
 education:
   courses:

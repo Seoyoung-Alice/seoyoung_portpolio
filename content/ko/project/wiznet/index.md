@@ -18,7 +18,7 @@ image:
   focal_point: Smart
 
 url_code: "https://github.com/Seoyoung-Alice/Smart_Study_Room_IoT"
-url_pdf: ""
+url_pdf: "ko/files/wiznet_final_SmartStudyRoom.pdf"
 url_slides: ""
 url_video: ""
 
@@ -48,7 +48,7 @@ slides: example
 - Arm Core 기반의 W7500 보드
 - mBed
 - html
-- CPP
+- C++
 
 ##	성과
 - Smart 공부방 IoT 시스템 개발

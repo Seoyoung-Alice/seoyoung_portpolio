@@ -52,7 +52,7 @@ slides: example
 ##	개발 환경
 - Arm Cortex-A9 기반 장비
 - Linux Ubuntu
-- C, CPP
+- C, C++
 
 ##	성과
 - 임베디드 software를 통해 Linux의 이해 및 device driver, Makefile 개발의 기초 마련

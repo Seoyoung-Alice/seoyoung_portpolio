@@ -53,7 +53,7 @@ slides: example
 - Bluetooth 4.0 (BLE)
 - Android Studio
 - java
-- CPP
+- C++
 
 ##	성과
 - 해외 제품의 국산화

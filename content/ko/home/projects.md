@@ -30,8 +30,8 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "졸업"
-    tag = "졸업"
+    name = "Altair"
+    tag = "Altair-EDA"
 
   [[content.filter_button]]
     name = "C++"

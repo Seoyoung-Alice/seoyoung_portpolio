@@ -12,21 +12,20 @@ authors:
 superuser: true
 
 # Role/position
-role: 임베디드 SoC 설계 / 주임 연구원
+role: EDA-Altair PollEx 개발1팀 / 대리
 
 # Organizations/Affiliations
 organizations:
-- name: 유비웍스
-  url: "http://www.ubiworks.co.kr"
+- name: Altair PollEx
+  url: "https://www.altair.co.kr/pollex/?gclid=Cj0KCQjw1N2TBhCOARIsAGVHQc71WyYxzCvHuatEkRd_kdcGaUGs2uVgoSN7yzHptk1y81alhMdsFWQaAnPBEALw_wcB"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 가나다라마바사
 
 interests:
-- Embedded Linux System
-- IoT System (실내 위치인식, Home IoT)
-- Edge Computing
+- 자율주행
 - AI
+- 실내 위치인식
 
 education:
   courses:
@@ -67,9 +66,10 @@ user_groups:
 - Visitors
 ---
 
-## 빠른 적응, 응용 능력을 바탕으로 프로젝트를 수행하는 괴물 Software 엔지니어!
+## 커뮤니케이션 능력을 이용한 업무효율의 120% 증가 효과를 보다!!!
+* **
 
+* **LogicDesigner 개발 및 ECAD 자료구조 분석** --- Schematic Designer을 위한 LogicDesigner 프로그램 및 ECAD 자료구조 분석을 통한 ECAD간 데이터 변환 프로그램 개발
+* **UAV 3차원 경로 선정 알고리즘** --- 석사 연구 주제로 MATLAB을 활용하여 UAV 3차원 경로 선정 알고리즘을 연구함
 * **Embedded Application 개발** --- Arm 보드에서 Linux 환경의 Device driver, Makefile 개발을 통한 게임 제작
-* **MATLAB을 이용한 알고리즘 개발** --- MATLAB을 이용하여 UAV 3차원 경로 선정을 위한 알고리즘 및 시뮬레이션 프로그램 개발
-* **다양한 프로그래밍 언어 개발 경험** --- 프로그래밍에 관심이 많아 C, C++, MFC, java, python, MATLAB 등 컴파일 언어부터 인터프리티드 언어까지 다양한 언어를 공부함
-* **다양한 프로젝트 수행 경험** --- 빠르고 정확한 코드 분석능력을 기반으로 응용 프로그래밍 개발에 능하며 Smart Study Room, 양식장 모니터링 앱, 임베디드 리눅스를 이용한 게임 등 다양한 프로젝트를 수행함
+* **휴머노이드 격투 대회 수상** --- 휴머노이드 도면과 모션을 직접 설계하여 전국 휴머노이드 격투 대회에 입상한 경력이 있음

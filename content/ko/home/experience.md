@@ -24,17 +24,31 @@ date_format = "Jan 2006"
 
 # Responsibilities include -> 직무
 [[experience]]
+  title = "개발자 - EDA"
+  company = "Altair"
+  company_url = "https://www.altair.co.kr/pollex/?gclid=Cj0KCQjw1N2TBhCOARIsAGVHQc71WyYxzCvHuatEkRd_kdcGaUGs2uVgoSN7yzHptk1y81alhMdsFWQaAnPBEALw_wcB"
+  location = "경기도 성남시 분당구"
+  date_start = "2020-10-19"
+  date_end = ""
+  description = """
+  직무:
+  * 타사 ECAD 자료구조 분석을 통한 자사, 타사간 ECAD 구조 변환 기능 개발
+  * Logic 설계 프로그램 개발
+  * PollEx 제품군 유지보수 및 성능 개선
+  """
+
+[[experience]]
   title = "주임 연구원"
   company = "유비웍스"
   company_url = "http://www.ubiworks.co.kr"
   location = "경기도 안양시"
   date_start = "2020-02-03"
-  date_end = ""
+  date_end = "2020-09-30"
   description = """
   직무:
   * Xilinx를 이용한 5G 통신모듈 제작
   * Zynq에서 RF 신호 처리를 위한 application 개발
-  * 임베디드 SoC
+  * USB 통신을 위한 테스트용 Windows Application 개발
   """
 
 [[experience]]

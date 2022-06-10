@@ -53,7 +53,7 @@ slides: example
 - Bluetooth 4.0 (BLE)
 - Android Studio
 - java
-- CPP
+- C++
 
 ##	Result
 - Localization of products

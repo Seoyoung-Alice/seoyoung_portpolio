@@ -29,8 +29,8 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Graduation work"
-    tag = "Graduation work"
+    name = "Altair"
+    tag = "Altair-EDA"
 
   [[content.filter_button]]
     name = "C++"

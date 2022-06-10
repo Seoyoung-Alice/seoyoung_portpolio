@@ -52,7 +52,7 @@ slides: example
 ##	Development Environment
 - Arm Cortex-A9 Based Equipment
 - Linux Ubuntu
-- C, CPP
+- C, C++
 
 ##	Result
 - Studying a foundation for understanding Linux and developing device drivers and makefile
