@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-## 커뮤니케이션 능력을 이용한 업무효율의 120% 증가로 주가 상승 중인 개발자를 소개합니다!
+## 커뮤니케이션 능력은 개발자에게 가장 중요한 능력 중 하나!
 * **
 
 * **LogicDesigner 개발 및 ECAD 자료구조 분석** --- Schematic Design을 위한 LogicDesigner 프로그램 및 ECAD 자료구조 분석을 통한 ECAD간 데이터 변환 프로그램 개발

@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-## Introducing developer whose value is growing due to a 120% increase in work efficiency using communication skills!
+## Communication skill is One of the most important skills for developers!
 
 * **Development of LogicDesigner and Analysis ECAD data structure** --- LogicDesigner program for Schematic Design and ECAD data conversion program development through ECAD data structure analysis
 * **Development of Algorithm Using MATLAB** --- Development of Algorithm and Simulation Program for UAV 3D path planning using MATLAB
