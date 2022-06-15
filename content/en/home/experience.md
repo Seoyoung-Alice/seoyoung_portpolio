@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   company_url = "http://www.ubiworks.co.kr"
   location = "Gyeonggi-do Anyang"
   date_start = "2020-02-03"
-  date_end = ""
+  date_end = "2020-09-30"
   description = """
   Responsibilities include:
   * Development of 5G Communication Module using Xilinx
